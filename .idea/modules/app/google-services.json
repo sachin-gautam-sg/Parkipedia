@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130052618729",
+    "firebase_url": "https://parkipedia-fb637.firebaseio.com",
+    "project_id": "parkipedia-fb637",
+    "storage_bucket": "parkipedia-fb637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130052618729:android:95287fd406056402623378",
+        "android_client_info": {
+          "package_name": "app.parkipedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130052618729-2c67ci2bs8hdghrci86lnrfo66b367ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.parkipedia",
+            "certificate_hash": "30796e4c5a50e915788bb9160197c7703669c908"
+          }
+        },
+        {
+          "client_id": "130052618729-qruvbtcj0fj1hfgmohvps0jlb5u00h76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSxHXO-E6M0Qvc0P0100o0V5IjnkYfxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130052618729-qruvbtcj0fj1hfgmohvps0jlb5u00h76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
